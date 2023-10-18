@@ -1,0 +1,38 @@
+#box{
+    height: 400px;
+    width: 400px;
+
+    border-width: 20px;
+    border-style: dashed;
+    background-color: rgb(212, 36, 168);
+    border-color: rgb(209, 70, 186);
+    border-radius: 45%;
+
+    background-image: url(./assets/img/flores.jpg);
+    text-align: center;
+    box-shadow: inset 6px 19px 71px 0px rgba(235,18,235,1);
+    background-size: cover;
+
+    padding: 10px;
+
+    outline-width: 56px;
+    outline-style: double;
+    outline-color: rgb(209, 157, 206);
+
+    margin: auto;
+    margin-top: 100px;
+
+}
+
+h1{
+    margin: auto;
+    text-align: center;
+}
+
+p{
+    padding-top: 100px;
+    font-family: 'Alice', serif;
+    font-size: 50px;
+    color:rgb(184, 11, 11);
+    font-weight: bold;
+}
